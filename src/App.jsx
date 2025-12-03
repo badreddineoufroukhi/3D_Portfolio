@@ -4,7 +4,7 @@ const App = () => {
   return (
     <main>
       <div>
-        <h1>welcome to our </h1>
+        <h1 className='text-3xl underline'>welcome to our </h1>
       </div>
     </main>
   )
