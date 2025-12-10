@@ -28,12 +28,15 @@ const words = [
   { text: "Code", imgPath: "/images/code.svg" },
 ];
 
+
 const counterItems = [
-  { value: 15, suffix: "+", label: "Years of Experience" },
-  { value: 200, suffix: "+", label: "Satisfied Clients" },
-  { value: 108, suffix: "+", label: "Completed Projects" },
-  { value: 90, suffix: "%", label: "Client Retention Rate" },
+  { value: 3, suffix: "+", label: "Years Experience" },
+  { value: 7, suffix: "+", label: "Years Education" },
+  { value: 3, suffix: "+", label: "Years Leadership" },
+  { value: 1, suffix: "+", label: "Full-Stack Focus" },
 ];
+
+
 
 const logoIconsList = [
   {
